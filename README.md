@@ -39,3 +39,4 @@
 <h2 align="center"> 😀 About More 😀 </h2> 
 📫 Contact me : kimradium@naver.com <br>
 📚 blog: https://frontend-challenge.tistory.com/ <br>
+📝 notion: https://tall-swordtail-81a.notion.site/40e367f16640422bb1736f5d667388e9
