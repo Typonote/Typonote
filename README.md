@@ -15,6 +15,7 @@
 - language : 
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/></span>
+<span><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?&style=flat-square&logo=typescript&logoColor=white"/></span>
 
 - Front-end : 
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/></span>
